@@ -1,0 +1,16 @@
+Employee_ID,Department,Region,Salary,Experience_Years,Performance_Rating,Monthly_Sales
+1001,Sales,North,45000,2,4,120000
+1002,Marketing,South,52000,3,3,98000
+1003,Sales,East,47000,4,5,150000
+1004,HR,West,40000,1,3,0
+1005,IT,North,60000,5,4,0
+1006,Sales,South,48000,3,4,130000
+1007,Marketing,East,51000,2,2,87000
+1008,IT,West,62000,6,5,0
+1009,Sales,North,46000,3,4,125000
+1010,HR,South,39000,2,3,0
+1011,Sales,East,50000,4,5,140000
+1012,Marketing,West,53000,3,,92000
+1013,IT,North,61000,5,4,
+1014,Sales,South,49000,3,4,135000
+1015,HR,East,42000,2,3,0

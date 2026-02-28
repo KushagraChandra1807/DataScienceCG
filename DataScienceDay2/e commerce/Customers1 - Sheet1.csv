@@ -1,0 +1,9 @@
+CustomerID,Name,Age,Region,SignupDate
+C001,Amit,28,North,2023-01-15
+C002,Priya,35,South,2022-11-20
+C003,John,,East,2023-03-05
+C004,Sara,42,West,2021-07-12
+C005,David,30,North,2023-02-10
+C006,Meera,27,South,2022-09-18
+C007,Alex,33,East,2023-01-25
+C008,Ravi,40,West,2022-12-01

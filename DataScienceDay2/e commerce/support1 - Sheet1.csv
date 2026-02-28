@@ -1,0 +1,9 @@
+TicketID,CustomerID,IssueType,ResolutionTime
+T001,C001,Delivery Delay,48
+T002,C002,Payment Issue,24
+T003,C003,Product Defect,72
+T004,C004,Delivery Delay,36
+T005,C005,Payment Issue,12
+T006,C006,Product Defect,60
+T007,C007,Delivery Delay,30
+T008,C008,Payment Issue,20
